@@ -29,7 +29,7 @@ HashMap<Character, Integer> charCounts=new HashMap<Character, Integer>();//HashM
 
 		}
 
-	}
+}
 
 
 		/*  output:
