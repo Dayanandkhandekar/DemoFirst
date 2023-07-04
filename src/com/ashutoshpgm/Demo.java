@@ -30,8 +30,8 @@ class W {
 					System.out.println("odd number");
 				break;
 			case 2:
-				for(int i = 1;i<=num;i++);
-				{ int i = 0;
+				for(int i = 1;i<=num;i++)
+				{ 
 				fact=fact*i;
 				}
 				
