@@ -11,6 +11,7 @@ class W {
 	static void m1(){
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the number");
+		
 		int num=sc.nextInt();
 		int odd=0;
 		int even=0;
