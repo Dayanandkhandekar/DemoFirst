@@ -12,7 +12,6 @@ public class MethodOverloading {
 		float ff=10.0f;
 		int aa=(int)ff; // Explicit casting
 		
-		
 	}
 
 }

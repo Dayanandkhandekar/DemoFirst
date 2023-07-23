@@ -10,6 +10,7 @@ public static void main(String[] args) {
 class W {
 	static void m1(){
 		Scanner sc=new Scanner(System.in);
+		System.out.println("====inside m1====");
 		System.out.println("Enter the number");
 		
 		int num=sc.nextInt();
